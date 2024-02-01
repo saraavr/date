@@ -1,0 +1,39 @@
+#movingButton {
+  
+  transition: transform 0.3s ease-in-out;
+}
+.sim{
+  font-family: courier new;
+    font-weight: bold;
+    font-size: 16px;
+    color: White;
+  background: #8B0000;
+  border:2px solid #8B0000;
+  border-radius: 20%;
+}
+body {
+  font-family: georgia;
+  background: Pink;
+  color: #8B0000;
+  text-align: center;
+}
+.button {
+    font-family: courier new;
+    font-weight: bold;
+    font-size: 16px;
+    color: White;
+  background: #8B0000;
+  border:2px solid #8B0000;
+  border-radius: 20%;
+    
+    /* Adicione outras propriedades de estilo conforme necessário */
+}
+
+.no{
+  background: Pink;
+  border: 0px;
+}
+
+.img{
+  padding: 10px 10px 10px 10px;
+}
